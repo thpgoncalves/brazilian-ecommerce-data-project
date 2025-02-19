@@ -30,16 +30,3 @@ This project focuses on **Big Data processing** and **ETL pipeline implementatio
 ✅ Delivery performance and logistics optimization.  
 ✅ Revenue forecasting and recommendation system integration.  
 
-## 🏗 **Setup & Installation**  
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ecommerce-data-pipeline.git
-
-# Navigate to the project folder
-cd ecommerce-data-pipeline
-
-# Build and start the container (if using Docker)
-docker-compose up --build
-
-# Run the PySpark ETL script
-python etl_pipeline.py
