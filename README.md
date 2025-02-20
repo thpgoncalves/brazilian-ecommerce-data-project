@@ -30,3 +30,14 @@ This project focuses on **Big Data processing** and **ETL pipeline implementatio
 ✅ Delivery performance and logistics optimization.  
 ✅ Revenue forecasting and recommendation system integration.  
 
+## Contact
+How to get in contact with me:
+
+[![LinkedIn][3.2]][3] - Thiago Gonçalves
+
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[3]: https://www.linkedin.com/in/thiago-pereira-goncalves/
+
+Project Link: [https://github.com/thpgoncalves/bill-scanner](https://github.com/thpgoncalves/Bill-Scanner-Gemini-API)
+
